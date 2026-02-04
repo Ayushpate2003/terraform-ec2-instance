@@ -12,14 +12,14 @@ This project uses Terraform to provision and manage AWS infrastructure as code. 
 - **Provider:** AWS
 - **Region:** ap-south-1 (Asia Pacific - Sydney)
 - **Instance Type:** t3.micro
-- **AMI:** ami-0ba8d27d35e9915fb (Amazon Linux 2023)
+- **AMI:** ami-0ba8dxxx27d35xxxx(Amazon Linux 2023)
 - **Instance Name:** terraform-ec2-instance
 
 ### Instance Details
 - **Instance ID:** i-0d745017a02e63db8
 - **State:** Running
-- **Public IP:** 13.203.97.133
-- **Private IP:** 172.31.6.206
+- **Public IP:** xxxxxxx
+- **Private IP:** xxxxxxxxxx
 - **Availability Zone:** ap-south-1b
 
 ## Prerequisites
